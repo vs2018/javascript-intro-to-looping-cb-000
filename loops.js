@@ -1,4 +1,4 @@
-function forLoop (arr){
+var forLoop = arr => {
   var newArr = []
   for (let i = 0; i < 25; i++) {
     if (i = 1) {
@@ -12,3 +12,4 @@ function forLoop (arr){
   }
     return newArr
 }
+
