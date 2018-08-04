@@ -12,4 +12,3 @@ var forLoop = arr => {
   }
     return newArr
 }
-
