@@ -12,10 +12,15 @@ function forLoop(array) {
 
 
 function whileLoop (number) {
-  
+  while (number >= 0) {
+    console.log(--number)
+    if (number === 0) {
+      
+    }
+
+  }
 }
 let countdown = 100;
- 
+
 while (countdown > 0) {
-  console.log(--countdown)
 }
