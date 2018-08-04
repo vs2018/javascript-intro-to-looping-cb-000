@@ -22,3 +22,5 @@ function whileLoop (number) {
 }
 
 
+
+Define a function called doWhileLoop in loops.js. The function should take an array as an argument. Use the maybeTrue() function (you can copy it from this README) as the condition, and remove elements from the array until the array is empty or until maybeTrue() returns false. (Your condition might look something like array.length > 0 || maybeTrue().) Finally, return the array. 
