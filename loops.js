@@ -12,5 +12,3 @@ function forLoop (arr){
   }
     return newArr
 }
-
-
