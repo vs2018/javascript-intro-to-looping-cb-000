@@ -1,3 +1,3 @@
-function forLoop (){
+function forLoop (arr){
   
 }
