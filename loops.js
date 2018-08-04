@@ -9,5 +9,5 @@ var forLoop = array => {
     }
 
   }
-    return arr
+    return array
 }
